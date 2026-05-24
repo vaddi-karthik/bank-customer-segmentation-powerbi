@@ -4,7 +4,7 @@ Power BI dashboard analyzing bank customer behavior, transaction patterns,
 and customer segmentation across 988K customers.
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Project Overview
 Analyzed a large-scale bank transactions dataset to segment customers, 
